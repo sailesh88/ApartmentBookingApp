@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Apartment Booking System</string>
+    <string name="search_for_apartment">Search for Apartment</string>
+    <string name="book">Book</string>
+</resources>
